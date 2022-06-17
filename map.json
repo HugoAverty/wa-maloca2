@@ -370,11 +370,6 @@
          "name":"mapName",
          "type":"string",
          "value":"TODO"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"custom.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
