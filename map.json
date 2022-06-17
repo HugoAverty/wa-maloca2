@@ -383,7 +383,7 @@
         {
          "columns":48,
          "firstgid":1,
-         "image":"assets\/Water.png",
+         "image":"tilesets\/Water.png",
          "imageheight":672,
          "imagewidth":1536,
          "margin":0,
@@ -10653,7 +10653,7 @@
         {
          "columns":22,
          "firstgid":1009,
-         "image":"assets\/Floor.png",
+         "image":"tilesets\/Floor.png",
          "imageheight":512,
          "imagewidth":704,
          "margin":0,
@@ -11834,7 +11834,7 @@
         {
          "columns":50,
          "firstgid":1361,
-         "image":"assets\/Floor-Deco.png",
+         "image":"tilesets\/Floor-Deco.png",
          "imageheight":1600,
          "imagewidth":1600,
          "margin":0,
@@ -14258,7 +14258,7 @@
         {
          "columns":24,
          "firstgid":3861,
-         "image":"assets\/Trees-and-flowers-1.png",
+         "image":"tilesets\/Trees-and-flowers-1.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -14272,7 +14272,7 @@
         {
          "columns":67,
          "firstgid":4437,
-         "image":"assets\/Moutains.png",
+         "image":"tilesets\/Moutains.png",
          "imageheight":3456,
          "imagewidth":2144,
          "margin":0,
@@ -17082,7 +17082,7 @@
         {
          "columns":56,
          "firstgid":11673,
-         "image":"assets\/Houses.png",
+         "image":"tilesets\/Houses.png",
          "imageheight":1568,
          "imagewidth":1792,
          "margin":0,
@@ -18515,7 +18515,7 @@
         {
          "columns":18,
          "firstgid":14417,
-         "image":"assets\/Wall-Black.png",
+         "image":"tilesets\/Wall-Black.png",
          "imageheight":480,
          "imagewidth":576,
          "margin":0,
@@ -19523,7 +19523,7 @@
         {
          "columns":48,
          "firstgid":14687,
-         "image":"assets\/Interior before order.png",
+         "image":"tilesets\/Interior before order.png",
          "imageheight":2400,
          "imagewidth":1536,
          "margin":0,
@@ -19644,7 +19644,7 @@
         {
          "columns":136,
          "firstgid":18287,
-         "image":"assets\/WIP.png",
+         "image":"tilesets\/WIP.png",
          "imageheight":4160,
          "imagewidth":4352,
          "margin":0,
@@ -19720,7 +19720,7 @@
         {
          "columns":40,
          "firstgid":35967,
-         "image":"assets\/Shadows-1.png",
+         "image":"tilesets\/Shadows-1.png",
          "imageheight":1024,
          "imagewidth":1280,
          "margin":0,
@@ -19734,7 +19734,7 @@
         {
          "columns":54,
          "firstgid":37247,
-         "image":"assets\/Inside-Floor.png",
+         "image":"tilesets\/Inside-Floor.png",
          "imageheight":3456,
          "imagewidth":1728,
          "margin":0,
@@ -23026,7 +23026,7 @@
         {
          "columns":22,
          "firstgid":43079,
-         "image":"assets\/Inside-Wall.png",
+         "image":"tilesets\/Inside-Wall.png",
          "imageheight":1664,
          "imagewidth":704,
          "margin":0,
@@ -23924,7 +23924,7 @@
         {
          "columns":64,
          "firstgid":44223,
-         "image":"assets\/jungle1.png",
+         "image":"tilesets\/jungle1.png",
          "imageheight":1824,
          "imagewidth":2048,
          "margin":0,
@@ -24174,7 +24174,7 @@
         {
          "columns":56,
          "firstgid":47871,
-         "image":"assets\/jungle2.png",
+         "image":"tilesets\/jungle2.png",
          "imageheight":448,
          "imagewidth":1792,
          "margin":0,
@@ -24254,7 +24254,7 @@
         {
          "columns":64,
          "firstgid":48655,
-         "image":"assets\/Lights and Dark.png",
+         "image":"tilesets\/Lights and Dark.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
