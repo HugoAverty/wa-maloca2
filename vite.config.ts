@@ -10,7 +10,7 @@ export default defineConfig({
             },
         },
     },
-    plugins: [...getMapsOptimizers()],
+    plugins: [],
     server: {
         host: "localhost",
         headers: {
