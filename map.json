@@ -105,9 +105,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/francemeta\/land\/genesis"
+                 "value":"\/@\/francemeta\/land\/genesis"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -195,9 +195,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/@\/metaventure\/land\/portal"
+                 "value":"\/@\/metaventure\/land\/portal"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -213,9 +213,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/@\/tcm\/workadventure\/wa-village"
+                 "value":"\/@\/tcm\/workadventure\/wa-village"
                 }],
          "type":"tilelayer",
          "visible":true,
