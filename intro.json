@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"\/@\/gael_dupret\/meta-reila\/maloca_main"
                 }],
          "type":"tilelayer",
          "visible":true,
