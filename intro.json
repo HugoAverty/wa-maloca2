@@ -93,17 +93,17 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"TODO"
+         "value":"Workadventure"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Map amazonie intro"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"intro.png"
         }, 
         {
          "name":"mapLink",
@@ -113,7 +113,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Maloca intro"
         }, 
         {
          "name":"script",

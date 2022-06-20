@@ -521,17 +521,17 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"TODO"
+         "value":"Workadventure"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Map pour l'amazonie"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -541,7 +541,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Maloca main"
         }, 
         {
          "name":"script",
